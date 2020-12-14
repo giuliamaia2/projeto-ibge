@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ibge-application</string>
+    <string name="main_title">Pesquise uma região do Brasil</string>
+    <string name="btn_search">Pesquisar</string>
 </resources>

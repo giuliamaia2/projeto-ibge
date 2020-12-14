@@ -4,6 +4,6 @@ import retrofit2.Call
 import retrofit2.http.GET
 
 interface ApiIBGERequest {
-    @GET("/localidades/estados/{uf}/municipios")
-    fun getMunicipios() : Call<List<Municipio>>
+    @GET("/localidades/regioes/{id}/estados")
+    fun getEstados() : Call<List<Estado>>
 }
