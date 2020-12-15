@@ -2,4 +2,18 @@
     <string name="app_name">ibge-application</string>
     <string name="main_title">Pesquise uma região do Brasil</string>
     <string name="btn_search">Pesquisar</string>
+
+    <string name="erro_01">Região não existente</string>
+    <string name="id">id</string>
+
+    <string name="norte">norte</string>
+    <string name="nordeste">nordeste</string>
+    <string name="sul">sul</string>
+    <string name="sudeste">sudeste</string>
+    <string name="centro_oeste">centro-oeste</string>
+
+    <string name="list_states">Lista de Estados:</string>
+    <string name="detalhes_estado">Estado: %1$s | Sigla: %2$s | Região: %3$s</string>
+
+    <string name="baseUrl">https://servicodados.ibge.gov.br/api/v1/</string>
 </resources>
